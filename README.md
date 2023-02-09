@@ -7,6 +7,6 @@
 [![IU(아이유) _ Into the I-LAND](http://img.youtube.com/vi/NfpCibCbT0Q/0.jpg)](https://youtu.be/NfpCibCbT0Q) 
 
 <h2><3> The eyes follwing user's mouse</h2>
-<p><img src=https://user-images.githubusercontent.com/104751913/217861294-11f29086-a8d4-469e-a8c8-039d4bddfa31.mov width=500px></p>
+<p><img src=https://user-images.githubusercontent.com/104751913/217864810-5d9c7d93-fea4-4356-a3f9-a5e4734eede3.gif width=500px></p>
 
 
