@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:rgb(255, 121, 184);
+}
+.face{
+    width:500px;
+    height: 500px;
+    background: rgb(255, 237, 198);
+    border-radius: 50%;
+    position:absolute;
+    top: 50%;
+    left : 50%;
+    margin-left:-250px;
+    margin-top:-250px;
+    
+}
+
+.eye{
+    width:200px;
+    height:200px;
+    position:absolute;
+    background: rgb(255, 255, 255);
+    border-radius: 50%;
+}
+
+.eye:nth-child(1){
+    left:30px;
+    top: 100px;
+}
+.eye:nth-child(2){
+    right: 30px;
+    top: 100px;
+}
+
+.pupil{
+    width:100px;
+    height: 100px;
+    background: black;
+    border-radius: 50%;
+    position:absolute;
+    left:50%;
+    top:50%;
+    margin-left:-50px;
+    margin-top:-50px;
+}
+
+.lips{
+    width: 400px;
+    height:400px;
+    background: transparent;
+    border-radius: 50%;
+    position: absolute;
+    bottom:50px;
+    left:50%;
+    margin-left:-200px;
+    border: 3px solid gray;
+    border-color: transparent transparent black transparent;
+
+}
